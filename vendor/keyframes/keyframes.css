@@ -1,0 +1,17 @@
+@keyframes hover {
+	from {
+		opacity: 1;
+	}
+	to  {
+		opacity: 0.8;
+	}
+}
+
+@keyframes hover-cover {
+	from {
+		opacity: 0.5;
+	}
+	to {
+		opacity: 0.8;
+	}
+}
